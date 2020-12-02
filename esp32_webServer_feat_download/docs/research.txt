@@ -8,3 +8,4 @@ https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/
 https://randomnerdtutorials.com/esp32-access-point-ap-web-server/
 https://randomnerdtutorials.com/esp32-web-server-with-bme280-mini-weather-station/  
 https://github.com/nkolban/esp32-snippets/blob/master/wifi/fragments/connect_with_static_ip.c
+https://stackoverflow.com/questions/55938253/react-native-force-fetch-to-use-wifi
