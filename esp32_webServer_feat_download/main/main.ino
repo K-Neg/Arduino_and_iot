@@ -75,9 +75,9 @@ void loop()
         printValues();
         //delay(3000);
         String buf = dataline();
-        char __dataFileName[sizeof(buf)];
-        buf.toCharArray(__dataFileName, sizeof(__dataFileName));
-        appendFile(SPIFFS, "/a.txt", __dataFileName);
+        char outPutArray[sizeof(buf)];
+        buf.toCharArray(outPutArray, sizeof(outPutArray));
+        appendFile(SPIFFS, "/a.txt", outPutArray);
         startSleep();
     }
 
